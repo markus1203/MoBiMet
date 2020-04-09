@@ -26,7 +26,7 @@ Table 1: Coefficients to correct temperatures and root mean square error (RMSE) 
 Humidity
 ============
 
-Table 2: Coefficients to correct vapor pressure and root mean square error (RMSE) of the raw and calibrated vapor pressure relative to the climate station in K
+Table 2: Coefficients to correct vapor pressure and root mean square error (RMSE) of the raw and calibrated vapor pressure relative to the climate station in hPa
 
 |Sensor | a0 (Offset) | a1 (Slope) | RMSE (raw) | RMSE (calib) |
 | --- | ---: | ---: |  ---: | ---: |
@@ -39,3 +39,15 @@ Table 2: Coefficients to correct vapor pressure and root mean square error (RMSE
 |2_BME680	|1.5892	|0.79630|	0.3271391	|0.139714|
 |1_BME280 |-0.0493|	1.16144|	0.9195801|	0.134975|
 
+
+Pressure
+============
+
+Table 3: Coefficients to correct  pressure and root mean square error (RMSE) of the raw and calibrated pressure relative to the climate station in hPa
+
+|Sensor | a0 (Offset) | a1 (Slope) | RMSE (raw) | RMSE (calib) |
+| --- | ---: | ---: |  ---: | ---: |
+|1_BME680|	53.7062|	0.9431|	2.582043|	0.08572349|
+|2_BME680|	90.7679|	0.9042|	4.176867|	0.1304444|
+|1_BME280| 56.7623|	0.9403|	2.320534|	0.09050464|
+|2_BME280|	54.7224|	0.9419|	2.794057|	0.08769271|
