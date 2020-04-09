@@ -2,6 +2,8 @@
 
 Comparison between the sensors AM2320,DHT22,HTU21D,MCP9808,BME680, BME280 and the CS215 in the climate station at Werthmannstrasse 10 from 3rd to 5th of March, 2020.
 
+![Mess-Setup03042020.JPG](Mess-Setup03042020.JPG) 
+
 Temperature
 ============
 
@@ -21,8 +23,6 @@ Table 1: Coefficients to correct temperatures and root mean square error (RMSE) 
 |1_BME280	|0.9421	|0.99980|	0.9483656	|0.124448
 |2_BME280	|0.7338	|1.00180|	0.7602216	|0.110038
 
-![Mess-Setup03042020.JPG](Mess-Setup.JPG) 
-
 Humidity
 ============
 
@@ -39,4 +39,3 @@ Table 2: Coefficients to correct vapor pressure and root mean square error (RMSE
 |2_BME680	|1.5892	|0.79630|	0.3271391	|0.139714|
 |1_BME280 |-0.0493|	1.16144|	0.9195801|	0.134975|
 
-![Mess-Setup.JPG](Mess-Setup.JPG) [Mess-Setup2.JPG](Mess-Setup2.JPG)
