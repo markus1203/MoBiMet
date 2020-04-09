@@ -25,6 +25,7 @@ Table 1: Coefficients to correct temperatures and root mean square error (RMSE) 
 |2_BME280	|0.7338	|1.00180|	0.7602216	|0.110038
 
 
+
 Humidity
 ============
 
@@ -40,6 +41,7 @@ Table 2: Coefficients to correct vapor pressure and root mean square error (RMSE
 |1_BME680	|1.5380	|0.79600|	0.2779574	|0.136056|
 |2_BME680	|1.5892	|0.79630|	0.3271391	|0.139714|
 |1_BME280 |-0.0493|	1.16144|	0.9195801|	0.134975|
+
 
 
 Pressure
