@@ -2,7 +2,8 @@
 
 Comparison between the sensors AM2320,DHT22,HTU21D,MCP9808,BME680, BME280 and the CS215 in the climate station at Werthmannstrasse 10 from 3rd to 5th of March, 2020.
 
-![Mess-Setup.JPG](Mess-Setup.JPG) ![Mess-Setup.JPG2](Mess-Setup.JPG2)
+![Mess-Setup.JPG](Mess-Setup.JPG) ![Mess-Setup2.JPG](Mess-Setup2.JPG)
+
 Temperature
 ============
 
