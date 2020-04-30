@@ -17,6 +17,14 @@ Table 1: Coefficients to correct temperatures and root mean square error (RMSE) 
 |BME280_1	|0.964163465	|0.995887152	|0.873013617	|0.098679036|
 |BME280_2	|0.892429899	|0.992954993	|0.729877614|	0.065070383|
 
-![AM_TIME](https://user-images.githubusercontent.com/60688751/80688830-b6058d00-8acc-11ea-9a99-f53fd93a8925.png)
+Only the red parts were used for the calibration:
+![Fluke_subset](https://user-images.githubusercontent.com/60688751/80691460-95d7cd00-8ad0-11ea-8ea2-c5b49d526691.png)
 
+Sensors vs Time
+![Sensors_vs_Time](https://user-images.githubusercontent.com/60688751/80692395-c835fa00-8ad1-11ea-9d66-95b9ebeedbbc.png)
+
+Sensors vs Fluke
+
+
+Sensors in the Climate Chamber
 ![IMG_0432](https://user-images.githubusercontent.com/60688751/80691091-0b8f6900-8ad0-11ea-8ee0-edf495edb9a9.JPG)
