@@ -21,10 +21,14 @@ Only the red parts were used for the calibration:
 ![Fluke_subset](https://user-images.githubusercontent.com/60688751/80691460-95d7cd00-8ad0-11ea-8ea2-c5b49d526691.png)
 
 Sensors vs Time
+
 ![Sensors_vs_Time](https://user-images.githubusercontent.com/60688751/80692395-c835fa00-8ad1-11ea-9d66-95b9ebeedbbc.png)
 
 Sensors vs Fluke
 
+![Korrelation](https://user-images.githubusercontent.com/60688751/80695493-485e5e80-8ad6-11ea-9ed5-aadde239ba57.png)
 
-Sensors in the Climate Chamber
+
+Sensors in the Climate Chamber:
+
 ![IMG_0432](https://user-images.githubusercontent.com/60688751/80691091-0b8f6900-8ad0-11ea-8ee0-edf495edb9a9.JPG)
