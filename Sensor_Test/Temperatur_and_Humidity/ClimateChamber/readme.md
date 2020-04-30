@@ -16,3 +16,5 @@ Table 1: Coefficients to correct temperatures and root mean square error (RMSE) 
 |BME680_2	|0.033774245	|0.985185244	|0.36281283	|0.058537775|
 |BME280_1	|0.964163465	|0.995887152	|0.873013617	|0.098679036|
 |BME280_2	|0.892429899	|0.992954993	|0.729877614|	0.065070383|
+
+![AM_TIME](https://user-images.githubusercontent.com/60688751/80688830-b6058d00-8acc-11ea-9a99-f53fd93a8925.png)
